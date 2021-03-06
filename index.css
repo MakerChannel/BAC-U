@@ -24,6 +24,7 @@ border-radius: 1px;
 	border:1px solid #18ab29;
 	display:inline-block;
 	cursor:pointer;
+	position: center;
 	color:#ffffff;
 	font-family:Arial;
 	font-size:28px;
@@ -39,9 +40,10 @@ border-radius: 1px;
 	background-color:#5cbf2a;
 	text-align: center;
 	padding-left: 47%;
+	position: center;
 }
 .mainButton:active {
-	position:relative;
+	position:center;
 	top:1px;
 	text-align: center;
 	padding-left: 47%;
