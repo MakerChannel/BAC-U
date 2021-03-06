@@ -4,5 +4,6 @@ background-image: linear-gradient(to left, #00FFFF, #138fec);
 
 .title {
 text-align: center;
-text-size: 20px;
+text-size: 50px;
+font-family: 'Akaya Telivigala', cursive;
 }
