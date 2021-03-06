@@ -1,3 +1,7 @@
+body {
+background-color: linear-gradient(purple, blue, cyan); 
+}
+
 .title {
 text-align: center;
 text-size: 20px;
