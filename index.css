@@ -20,12 +20,12 @@ border-radius: 1px;
  font-family: 'Shippori Mincho B1', serif;
  color: white;
  background-image: linear-gradient(yellow, orange);
- padding-left: 50px;
- padding-right: 50px;
- padding-bottom: 25px;
- padding-top: 25px;
+ padding-left: 25px;
+ padding-right: 25px;
+ padding-bottom: 15px;
+ padding-top: 15px;
  text-decoration: none; 
  text-align: center;
- font-size: 30px;
+ font-size: 15px;
  border-radius: 2px;
 }
