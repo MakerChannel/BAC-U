@@ -20,9 +20,9 @@ border-radius: 1px;
  font-family: 'Shippori Mincho B1', serif;
  color: white;
  background-image: linear-gradient(yellow, orange);
- padding-left: 20px;
- padding-right: 20px;
- padding-bottom: 10px;
- padding-top: 10px;
+ padding-left: 75px;
+ padding-right: 75px;
+ padding-bottom: 25px;
+ padding-top: 25px;
  text-decoration: none; 
 }
