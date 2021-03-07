@@ -19,6 +19,10 @@ border-radius: 1px;
 .mainButton {
  font-family: 'Shippori Mincho B1', serif;
  color: white;
- background-image: linear-gradient(green, blue);
+ background-image: linear-gradient(yellow, orange);
+ padding-left: 20px;
+ padding-right: 20px;
+ padding-bottom: 10px;
+ padding-top: 10px;
  text-decoration: none; 
 }
