@@ -17,5 +17,8 @@ border-radius: 1px;
 }
 
 .mainButton {
+ font-family: 'Shippori Mincho B1', serif;
+ color: white;
+ background-image: linear-gradient(green, blue);
  text-decoration: none; 
 }
